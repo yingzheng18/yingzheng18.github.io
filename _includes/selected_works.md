@@ -1,7 +1,7 @@
 
-# 📑 Seleted Works 
+# 📑 Selected Works 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPP 2024</div><img src='images/icpp-multi-lora.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPP 2024</div><img src='images/icpp-multi-lora.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Online Scheduling and Pricing for Multi-LoRA Fine-Tuning Tasks.
@@ -15,7 +15,7 @@ ICPP, 2024.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPP 2024</div><img src='images/iwqos-aigc-dag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWQoS 2024</div><img src='images/iwqos-aigc-dag.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Scheduling Generative-AI Job DAGs with Model Serving in Data Centers.
@@ -30,14 +30,14 @@ IWQoS, 2024.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPP 2024</div><img src='images/iwqos-aigc-dag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2021</div><img src='images/infocom-wrong-risky-decisions.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Leveraging Domain Knowledge for Robust Deep Reinforcement Learning in Networking. 
 
 **Ying Zheng**, Haoyu Chen, Qingyang Duan, Lixiang Lin, Yiyang Shao, Wei Wang, Xin Wang, Yuedong Xu.
 
-JSAC, 2021.
+INFOCOM, 2021.
 [[Paper]](https://yingzheng18.github.io/files/papers/infocom21-Leveraging_Domain_Knowledge_for_Robust_Deep_Reinforcement_Learning_in_Networking.pdf)
 [[Website]](https://ieeexplore.ieee.org/abstract/document/9488863/)
 
@@ -45,10 +45,10 @@ JSAC, 2021.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPP 2024</div><img src='images/iwqos-aigc-dag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APNet 2018</div><img src='images/apnet-saliency-map.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Leveraging Domain Knowledge for Robust Deep Reinforcement Learning in Networking. 
+Demystifying Deep Learning in Networking.
 
 **Ying Zheng**, Ziyu Liu, Xinyu You, Yuedong Xu, Junchen Jiang
 

@@ -1,6 +1,9 @@
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+- *2018-2021,2023* Scholarship of Fudan University
+- *2021* IEEE INFOCOM Student Travel Grant
+- *2020* Outstanding paper award of Radio Communications Technology
+- *2018* ACM SIGCOMM Travel Grant
+- *2017* Chinese National Scholarship (Top 1%)

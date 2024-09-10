@@ -15,8 +15,8 @@ main:
   - title: "Publication List"
     url: "/#-publication-list"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
 
   - title: "Awards"
     url: "/#-honors-and-awards"
