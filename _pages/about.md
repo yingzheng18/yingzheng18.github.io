@@ -53,7 +53,7 @@ Online Scheduling and Pricing for Multi-LoRA Fine-Tuning Tasks.
 **Ying Zheng**, Lei Jiao, Han Yang, Lulu Chen, Ying Liu, Yuxiao Wang, Yuedong Xu, Xin Wang, Zongpeng Li.
 
 ICPP, 2024.
-[[PDF]]
+[[PDF]](https://github.com/yingzheng18/yingzheng18.github.io/blob/main/files/papers/ICPP24_Online_Scheduling_and_Pricing_for_Multi_LoRA_Fine_Tuning_Tasks.pdf)
 [[Website]](https://dl.acm.org/doi/abs/10.1145/3673038.3673083)
 
 </div>
