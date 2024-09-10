@@ -19,7 +19,7 @@ redirect_from:
 
 # 👩🏼‍💻 About Me
 
-My name is Ying Zheng (郑莹 in Chinese). I am currently a Ph.D. student at Fudan University, advised by Prof. <a href='https://scholar.google.com/citations?user=gmiMkc0AAAAJ&hl=zh-CN'>Yuedong Xu</a> and Prof. <a href='https://scholar.google.com/citations?hl=zh-CN&user=4KcxzhoAAAAJ&view_op=list_works&sortby=pubdate'>Xin Wang</a>.  Additionally, I am fortunate to work closely with <a href="https://ljiao.github.io/">Lei Jiao</a>
+My name is Ying Zheng (郑莹 in Chinese). I am currently a Ph.D. student at Fudan University, advised by Prof. <a href='https://scholar.google.com/citations?user=gmiMkc0AAAAJ&hl=zh-CN'>Yuedong Xu</a> and Prof. <a href='https://scholar.google.com/citations?hl=zh-CN&user=4KcxzhoAAAAJ&view_op=list_works&sortby=pubdate'>Xin Wang</a>.  Additionally, I am fortunate to work closely with Prof. <a href="https://ljiao.github.io/">Lei Jiao</a>
 at University of Oregon and Prof. <a href='https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=zh-CN'>Zongpeng Li</a> at Tsinghua University.
 
 # 📝 Research
@@ -53,7 +53,7 @@ Online Scheduling and Pricing for Multi-LoRA Fine-Tuning Tasks.
 **Ying Zheng**, Lei Jiao, Han Yang, Lulu Chen, Ying Liu, Yuxiao Wang, Yuedong Xu, Xin Wang, Zongpeng Li.
 
 ICPP, 2024.
-[[PDF]](https://yingzheng18.github.io/files/papers/ICPP24_Online_Scheduling_and_Pricing_for_Multi_LoRA_Fine_Tuning_Tasks.pdf)
+[[Paper]](https://yingzheng18.github.io/files/papers/ICPP24_Online_Scheduling_and_Pricing_for_Multi_LoRA_Fine_Tuning_Tasks.pdf)
 [[Website]](https://dl.acm.org/doi/abs/10.1145/3673038.3673083)
 
 </div>
@@ -78,10 +78,10 @@ ICPP, 2024.
 
 
 # 📖 Educations
-- *2023.09 - now*, Ph.D. in Computer Science, Fudan University.
-- *2023.09 - 2024.08*, Visiting Student, institute for Network Sciences and Cyberspace, Tsinghua University.
-- *2022.09 - 2023.08*, Visiting Student, School of Computer Science and Engineering, Nanyang Technological University, advised by prof. <a href='https://personal.ntu.edu.sg/boan/'>Bo An</a>.
-- *2014.09 - 2018.06*, B.S. in Telecommunication Engineering, Northeastern University
+- *2023.09 - now*, Ph.D. in Computer Science, **Fudan University**.
+- *2023.09 - 2024.08*, Visiting Student, institute for Network Sciences and Cyberspace, **Tsinghua University**.
+- *2022.09 - 2023.08*, Visiting Student, School of Computer Science and Engineering, **Nanyang Technological University**, advised by prof. <a href='https://personal.ntu.edu.sg/boan/'>Bo An</a>.
+- *2014.09 - 2018.06*, B.S. in Telecommunication Engineering, **Northeastern University**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
